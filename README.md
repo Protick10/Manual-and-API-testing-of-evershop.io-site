@@ -1,0 +1,1 @@
+# Manual-and-API-testing-of-evershop.io-site
